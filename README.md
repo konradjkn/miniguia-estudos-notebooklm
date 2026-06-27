@@ -27,9 +27,11 @@ Fontes selecionadas e carregadas no NotebookLM para fundamentar as respostas da 
 |---|-------|------|--------------------|
 | 1 | C++ – Wikipédia, a enciclopédia livre | Artigo web | [pt.wikipedia.org/wiki/C++](https://pt.wikipedia.org/wiki/C%2B%2B) |
 | 2 | Biblioteca padrão do C++ – Wikipédia | Artigo web | [pt.wikipedia.org/wiki/Biblioteca_padrão_do_C++](https://pt.wikipedia.org/wiki/Biblioteca_padr%C3%A3o_do_C%2B%2B) |
-| 3 | A Biblioteca C/C++ | Material de referência | [A Biblioteca C/C++](https://www.ibm.com/docs/pt-br/i/7.5.0?topic=functions-cc-library) |
-| 4 | NotasAula.pdf | PDF (notas de aula próprias) | Disponível na pasta `/fontes` deste repositório |
-| 5 | slago-C++.pdf | PDF (material de apoio) | Disponível na pasta `/fontes` deste repositório |
+| 3 | A Biblioteca C/C++ | Material de referência | [Substitua pelo link real, se houver] |
+| 4 | NotasAula.pdf | PDF (notas de aula, licença CC BY-NC-ND 4.0) | Hospedado neste repositório: [`./NotasAula.pdf`](./NotasAula.pdf) |
+| 5 | slago-C++.pdf | PDF (direitos reservados ao autor) | Não hospedado aqui — fonte oficial: [ime.usp.br/~slago/slago-C++.pdf](http://www.ime.usp.br/~slago/slago-C%2B%2B.pdf) |
+
+> 📄 Ver detalhes de licenciamento e créditos completos na seção **"Créditos e Licenças das Fontes"** abaixo.
 
 ---
 
@@ -235,4 +237,4 @@ Como ferramentas recomendadas para a prática profissional, foram indicados os c
 
 ## 🔗 Sobre este projeto
 
-Repositório criado como entrega do desafio de projeto **"Caderno Temático no NotebookLM"** da [DIO](https://web.dio.me). O objetivo foi exercitar curadoria de fontes, engenharia de prompts e organização de conhecimento usando IA como ferramenta de estudo ativo.
+Repositório criado como entrega do desafio de projeto **"Caderno Temático no NotebookLM"** da [DIO](https://www.dio.me/). O objetivo foi exercitar curadoria de fontes, engenharia de prompts e organização de conhecimento usando IA como ferramenta de estudo ativo.
